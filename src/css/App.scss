@@ -5,29 +5,41 @@ html {
   margin: 0;
 }
 
-.App {
-  display: flex;
-  background: green;
+.app {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 0;
+  background: darkolivegreen;
   font-family: monospace;
   font-size: 18px;
   .main-container {
-    width: 50%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
+    overflow: scroll;
     .giphy-img {
       width: 150px;
       height: 150px;
+      object-fit: cover;
+      cursor: pointer;
+      &:hover {
+        opacity: 1;
+      }
     }
   }
 
   .preview {
-    width: 50%;
     display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-    background: blue;
+    align-content: center;
     font-family: monospace;
     font-size: 18px;
+    .preview-img {
+      width: 250px;
+      height: 250px;
+    }
   }
 }
