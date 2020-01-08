@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/select-and-preview-giphy/static/css/main.1d5688ac.chunk.css",
+    "main.js": "/select-and-preview-giphy/static/js/main.4b03d23d.chunk.js",
+    "main.js.map": "/select-and-preview-giphy/static/js/main.4b03d23d.chunk.js.map",
+    "runtime-main.js": "/select-and-preview-giphy/static/js/runtime-main.6695bd6b.js",
+    "runtime-main.js.map": "/select-and-preview-giphy/static/js/runtime-main.6695bd6b.js.map",
+    "static/js/2.494b76c0.chunk.js": "/select-and-preview-giphy/static/js/2.494b76c0.chunk.js",
+    "static/js/2.494b76c0.chunk.js.map": "/select-and-preview-giphy/static/js/2.494b76c0.chunk.js.map",
+    "index.html": "/select-and-preview-giphy/index.html",
+    "precache-manifest.773975b23115872183fe2eabe35c5a0d.js": "/select-and-preview-giphy/precache-manifest.773975b23115872183fe2eabe35c5a0d.js",
+    "service-worker.js": "/select-and-preview-giphy/service-worker.js",
+    "static/css/main.1d5688ac.chunk.css.map": "/select-and-preview-giphy/static/css/main.1d5688ac.chunk.css.map",
+    "static/js/2.494b76c0.chunk.js.LICENSE": "/select-and-preview-giphy/static/js/2.494b76c0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6695bd6b.js",
+    "static/js/2.494b76c0.chunk.js",
+    "static/css/main.1d5688ac.chunk.css",
+    "static/js/main.4b03d23d.chunk.js"
+  ]
+}
