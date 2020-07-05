@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/select-and-preview-giphy/static/css/main.1d5688ac.chunk.css",
-    "main.js": "/select-and-preview-giphy/static/js/main.4b03d23d.chunk.js",
-    "main.js.map": "/select-and-preview-giphy/static/js/main.4b03d23d.chunk.js.map",
-    "runtime-main.js": "/select-and-preview-giphy/static/js/runtime-main.6695bd6b.js",
-    "runtime-main.js.map": "/select-and-preview-giphy/static/js/runtime-main.6695bd6b.js.map",
-    "static/js/2.494b76c0.chunk.js": "/select-and-preview-giphy/static/js/2.494b76c0.chunk.js",
-    "static/js/2.494b76c0.chunk.js.map": "/select-and-preview-giphy/static/js/2.494b76c0.chunk.js.map",
+    "main.css": "/select-and-preview-giphy/static/css/main.4825f766.chunk.css",
+    "main.js": "/select-and-preview-giphy/static/js/main.62aca8f8.chunk.js",
+    "main.js.map": "/select-and-preview-giphy/static/js/main.62aca8f8.chunk.js.map",
+    "runtime-main.js": "/select-and-preview-giphy/static/js/runtime-main.2f408c05.js",
+    "runtime-main.js.map": "/select-and-preview-giphy/static/js/runtime-main.2f408c05.js.map",
+    "static/js/2.95fb8d35.chunk.js": "/select-and-preview-giphy/static/js/2.95fb8d35.chunk.js",
+    "static/js/2.95fb8d35.chunk.js.map": "/select-and-preview-giphy/static/js/2.95fb8d35.chunk.js.map",
     "index.html": "/select-and-preview-giphy/index.html",
-    "precache-manifest.773975b23115872183fe2eabe35c5a0d.js": "/select-and-preview-giphy/precache-manifest.773975b23115872183fe2eabe35c5a0d.js",
+    "precache-manifest.ee6cb3a494fa8a9a73ddfd4e71dcab7b.js": "/select-and-preview-giphy/precache-manifest.ee6cb3a494fa8a9a73ddfd4e71dcab7b.js",
     "service-worker.js": "/select-and-preview-giphy/service-worker.js",
-    "static/css/main.1d5688ac.chunk.css.map": "/select-and-preview-giphy/static/css/main.1d5688ac.chunk.css.map",
-    "static/js/2.494b76c0.chunk.js.LICENSE": "/select-and-preview-giphy/static/js/2.494b76c0.chunk.js.LICENSE"
+    "static/css/main.4825f766.chunk.css.map": "/select-and-preview-giphy/static/css/main.4825f766.chunk.css.map",
+    "static/js/2.95fb8d35.chunk.js.LICENSE.txt": "/select-and-preview-giphy/static/js/2.95fb8d35.chunk.js.LICENSE.txt",
+    "static/media/fail.webp": "/select-and-preview-giphy/static/media/fail.e3c65c50.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.6695bd6b.js",
-    "static/js/2.494b76c0.chunk.js",
-    "static/css/main.1d5688ac.chunk.css",
-    "static/js/main.4b03d23d.chunk.js"
+    "static/js/runtime-main.2f408c05.js",
+    "static/js/2.95fb8d35.chunk.js",
+    "static/css/main.4825f766.chunk.css",
+    "static/js/main.62aca8f8.chunk.js"
   ]
 }
