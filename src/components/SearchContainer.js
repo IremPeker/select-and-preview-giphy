@@ -27,7 +27,6 @@ class GiphyContainer extends React.Component {
   }
 
   render() {
-    const value = this.props.value;
     return (
       <div className="search-container">
         <form className="search-form" onSubmit={this.handleSubmit}>

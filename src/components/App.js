@@ -34,7 +34,6 @@ class App extends React.Component {
       });
       const data = await response.json();
       const giphies = data.data;
-      console.log("DATA=>",data, "ALL GIPHIES=>", giphies);
       
       if (giphies.length > 0) {
         this.setState({

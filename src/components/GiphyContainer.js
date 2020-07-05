@@ -47,7 +47,6 @@ class GiphyContainer extends React.Component {
   render() {
     const allGiphies = this.props.giphies;
     const value = this.props.value;
-    console.log("VALUE IS", value);
     
     const allResults = allGiphies.map(el => {
       return (
